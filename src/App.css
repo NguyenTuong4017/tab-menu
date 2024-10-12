@@ -1,0 +1,35 @@
+
+
+.homePage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    background-color: black;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding: 5%;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: none;
+    width: 10%;
+}
+
+.router-link {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-size: large;
+    font-weight: 700;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
